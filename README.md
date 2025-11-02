@@ -13,8 +13,8 @@ All blocklists are released under the MIT License unless otherwise noted. You ar
  - Email Servers: Import .txt lists into your MTA (Postfix, Exim, etc.) to block domains at the SMTP level.
  - Pi-hole / DNS Filtering: Use .hosts or domain-only lists to block malicious domains at the DNS level.
 
- - # 🤝 Contributing
-We welcome contributions! To suggest additions or request removals:
+ # 🤝 Contributing
+ We welcome contributions! To suggest additions or request removals:
  - Open a Pull Request with supporting evidence (headers, logs, abuse reports).
  - Or file an Issue with details.
  - Allow up to 14 days for review and processing.

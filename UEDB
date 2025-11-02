@@ -1,0 +1,34 @@
+# MAINTAINER: SilentPS, LLC — Unsolicited Emailers by Domain Blocklist (UEDB)
+# VERSION: 1.0
+# UPDATED: 2025-NOV-2
+# LICENSE: CC0 1.0 Universal (Public Domain Dedication)
+# FORMAT: One domain per line. No wildcards. No subdomains unless explicitly listed.
+# PURPOSE: Block inbound email from domains known to send unsolicited messages.
+# REMOVAL: Submit a Pull Request & Bug Report. Wait upto 14 days for processing 
+# For more info or to contribute, visit: https://github.com/SilentPS/Blocklists
+
+
+prd-bd-ZHWHA5.cleamyemaillist.com
+9gomc3t9ol7hpo20.fz0bhrq.hp-dy170mab.usa866.bnc.salesforce.com
+addendanalyticsmail.com
+smashcloud.solutions
+b.woocommerce.com
+bounce.softwarefindermed.com
+bounce.email-biolifeplasma.com
+bounce.softwarefindermed.com
+em8489.gowithjeeva.com
+cleamyemaillist.com
+prd-bd-HW57WD.cleanaemaillist.com
+emsd5.com
+fe59iweovk3w.hs-8mur3mai.usa348.bnc.salesforce.com
+logochocolatestore.com
+webpronews.com
+opallios.cloud
+brandedgiftshop.com
+usersleads.com
+stoneflymail2.com
+tech8far.com
+techuserdata.com
+varteq-corp.com
+natwest.co.uk
+whizz-bridge.online
